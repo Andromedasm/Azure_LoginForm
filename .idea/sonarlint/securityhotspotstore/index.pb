@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 K
 tailwind/tailwind.config.js,9\6\968e238eb805dbabfcd7654359f1d04b9f016530
 C
